@@ -1,0 +1,6 @@
+Library:
+    streamlit
+    pandas
+    plotly
+    openpyxl
+    requests
