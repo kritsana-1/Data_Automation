@@ -7,8 +7,3 @@
 - **Auto Analysis:** คำนวณสถิติพื้นฐานและยอดรวมให้อัตโนมัติ
 - **Interactive Graphs:** กราฟปรับเปลี่ยนตามข้อมูลที่เลือกแบบ Real-time
 - **Line Notification:** ส่งสรุปยอดสำคัญเข้ามือถือได้ทันทีผ่าน Line API
-
-## วิธีติดตั้งและใช้งาน
-1. ติดตั้ง Library ที่จำเป็น:
-   ```bash
-   pip install -r requirements.txt
